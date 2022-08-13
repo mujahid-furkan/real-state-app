@@ -16,7 +16,7 @@ const Pages = () => {
     <BrowserRouter>
     <Header/>
     <Routes>
-    <Route exact element={<Home />} />        
+    <Route exact path='/' element={<Home />} />        
     <Route exact path='/home' element={<Home />} />        
     <Route exact path='/about' element={<About />} />        
     <Route exact path='/services' element={<Services />} />        
