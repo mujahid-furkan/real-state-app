@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/real-state-app/static/css/main.fa81f296.css",
-    "main.js": "/real-state-app/static/js/main.50b3e67c.js",
+    "main.js": "/real-state-app/static/js/main.25618f70.js",
     "static/js/787.bd4e930c.chunk.js": "/real-state-app/static/js/787.bd4e930c.chunk.js",
     "static/media/about.jpg": "/real-state-app/static/media/about.56e92b20e762df2fa5de.jpg",
     "static/media/immio.jpg": "/real-state-app/static/media/immio.44af39fb330d32b3db39.jpg",
@@ -10,11 +10,11 @@
     "static/media/banner.png": "/real-state-app/static/media/banner.1a3c8a0a448e8e24f6a0.png",
     "index.html": "/real-state-app/index.html",
     "main.fa81f296.css.map": "/real-state-app/static/css/main.fa81f296.css.map",
-    "main.50b3e67c.js.map": "/real-state-app/static/js/main.50b3e67c.js.map",
+    "main.25618f70.js.map": "/real-state-app/static/js/main.25618f70.js.map",
     "787.bd4e930c.chunk.js.map": "/real-state-app/static/js/787.bd4e930c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fa81f296.css",
-    "static/js/main.50b3e67c.js"
+    "static/js/main.25618f70.js"
   ]
 }
